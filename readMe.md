@@ -9,9 +9,10 @@ This is basic implementation of a blockchain using JS. We are calling this curre
 Whats done 
 
 # Basic block and blockChain structure added.
+# Use diff js package for hash generation.
+# Use native js package CRYPTO for hash generation.
 
 To implement
-
-# Use diff js package for hash generation.
-# Use native js package CRYPTO for hash generation. 
-# 
+ 
+# add isValidChain checks
+# add proof of work feature
