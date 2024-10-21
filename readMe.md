@@ -1,5 +1,11 @@
 This is basic implementation of a blockchain using JS. We are calling this currency as koCoin. 
 
+# implementation demos
+
+![koChain implemtation](imgs/demo1.png)
+
+
+
 Whats done 
 
 # Basic block and blockChain stucture added.
