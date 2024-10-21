@@ -1,0 +1,15 @@
+{
+  "name": "kocoin",
+  "version": "1.0.0",
+  "description": "This is basic implementation of blockchain in javascript. This is a blockchain currency called koCoin",
+  "main": "koCoin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kajal Koli",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.2.0"
+  },
+  "type": "module"
+}
