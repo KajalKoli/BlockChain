@@ -9,7 +9,8 @@
   "author": "Kajal Koli",
   "license": "ISC",
   "dependencies": {
-    "crypto-js": "^4.2.0"
+    "crypto-js": "^4.2.0",
+    "js-sha256": "^0.11.0"
   },
   "type": "module"
 }

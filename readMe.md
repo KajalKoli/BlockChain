@@ -8,7 +8,7 @@ This is basic implementation of a blockchain using JS. We are calling this curre
 
 Whats done 
 
-# Basic block and blockChain stucture added.
+# Basic block and blockChain structure added.
 
 To implement
 
